@@ -1,2 +1,28 @@
-# NibbleLang
-The repository of Nibble Programming Language
+# Nibble Programming Language
+
+## Introduction
+
+Nibble is a statically typed compiled programming language designed to get all benefits 
+from [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming),
+[Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) and
+[Procedural Programming](https://en.wikipedia.org/wiki/Procedural_programming).
+
+Nibble design has been influenced by C++, Java, Kotlin, Haskell, Rust and Python.
+
+All in Nibble is an object: to handle them, Nibble has a new way to use memory.
+
+It comes with a predefined library:
+* `lang`  
+  Contains basic language constructs.
+* `io`  
+  Handles input and output. 
+* `thread`    
+  Used to work with multithreading.
+* `gui`   
+  Used for Graphical User Interface.
+* `net`   
+  To works with networks.
+* `util`    
+  Contains a lot of algorithms, data structures and other stuff.
+
+Nibble is built using [ANTLR4](https://www.antlr.org/) as frontend and [LLVM](https://llvm.org/) as backend.

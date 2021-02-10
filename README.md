@@ -9,8 +9,6 @@ from [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented
 
 Nibble design has been influenced by C++, Java, Kotlin, Haskell, Rust and Python.
 
-All in Nibble is an object: to handle them, Nibble has a new way to use memory.
-
 It comes with a predefined library:
 * `lang`  
   Contains basic language constructs.

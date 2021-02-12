@@ -19,7 +19,7 @@ It comes with a predefined library:
 * `gui`   
   Used for Graphical User Interface.
 * `net`   
-  To works with networks.
+  To works with networks and web.
 * `util`    
   Contains a lot of algorithms, data structures and other stuff.
 

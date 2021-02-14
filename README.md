@@ -1,4 +1,7 @@
-# Nibble Programming Language
+<div align="center">
+
+  <h1>The Nibble Programming Language</h1>
+</div>
 
 ## Introduction
 

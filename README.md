@@ -2,8 +2,8 @@
 
   <h1>The Nibble Programming Language</h1>
    [nibblelang.io]() | 
-   [doc]() | 
-   [changelog]() | 
+   [doc](https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/doc.md) | 
+   [changelog](https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/changelog.md)
 </div>
 
 ## Introduction

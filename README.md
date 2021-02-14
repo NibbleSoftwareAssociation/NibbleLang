@@ -2,7 +2,7 @@
 
 <h1>The Nibble Programming Language</h1>
 <a href="https://github.com/NibbleSoftwareAssociation/NibbleLang">nibblelang.io</a> | 
-<a href="https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/doc.md">doc</a> |
+<a href="https://github.com/NibbleSoftwareAssociation/Nibblelang/blob/main/docs/doc.md">doc</a> |
 <a href="https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/changelog.md">changelog</a>
 </div>
 

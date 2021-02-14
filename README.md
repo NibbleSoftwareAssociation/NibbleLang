@@ -1,14 +1,14 @@
 <div align="center">
 
-  <h1>The Nibble Programming Language</h1>
-   [nibblelang.io]() | 
-   [doc](https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/doc.md) | 
-   [changelog](https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/changelog.md)
+<h1>The Nibble Programming Language</h1>
+<a href="https://github.com/NibbleSoftwareAssociation/NibbleLang">nibblelang.io</a> | 
+<a href="https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/doc.md">doc</a> |
+<a href="https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/changelog.md">changelog</a>
 </div>
 
 ## Introduction
 
-Nibble is a statically typed compiled programming language designed to get all benefits 
+Nibble is a statically typed compiled programming language designed to get all benefits
 from [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming),
 [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) and
 [Procedural Programming](https://en.wikipedia.org/wiki/Procedural_programming).
@@ -19,7 +19,7 @@ It comes with a predefined library:
 * `lang`  
   Contains basic language constructs.
 * `io`  
-  Handles input and output. 
+  Handles input and output.
 * `thread`    
   Used to work with multithreading.
 * `gui`   

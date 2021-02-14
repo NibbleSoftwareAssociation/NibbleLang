@@ -1,6 +1,9 @@
 <div align="center">
 
   <h1>The Nibble Programming Language</h1>
+   [nibblelang.io]() | 
+   [doc]() | 
+   [changelog]() | 
 </div>
 
 ## Introduction

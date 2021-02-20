@@ -16,11 +16,11 @@ from [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented
 Nibble design has been influenced by C++, Java, Kotlin, Haskell, Rust and Python.
 
 It comes with a predefined library:
-* `lang`  
+* `nb`  
   Contains basic language constructs.
 * `io`  
   Handles input and output.
-* `thread`    
+* `td`    
   Used to work with multithreading.
 * `gui`   
   Used for Graphical User Interface.
@@ -28,5 +28,7 @@ It comes with a predefined library:
   To works with networks and web.
 * `util`    
   Contains a lot of algorithms, data structures and other stuff.
+* `sys`   
+  Used to work with the environment.
 
 Nibble is built using [ANTLR4](https://www.antlr.org/) as frontend and [LLVM](https://llvm.org/) as backend.

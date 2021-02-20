@@ -1,9 +1,9 @@
 <div align="center">
-
-<h1>The Nibble Programming Language</h1>
-<a href="https://github.com/NibbleSoftwareAssociation/NibbleLang">nibblelang.io</a> | 
-<a href="https://github.com/NibbleSoftwareAssociation/Nibblelang/blob/main/docs/doc.md">doc</a> |
-<a href="https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/changelog.md">changelog</a>
+  <h1>The Nibble Programming Language</h1>
+  <hr/>
+  <a href="https://github.com/NibbleSoftwareAssociation/NibbleLang">nibblelang.io</a> | 
+  <a href="https://github.com/NibbleSoftwareAssociation/Nibblelang/blob/main/docs/doc.md">doc</a> |
+  <a href="https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/changelog.md">changelog</a>
 </div>
 
 ## Introduction

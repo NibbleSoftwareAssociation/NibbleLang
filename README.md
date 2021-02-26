@@ -3,7 +3,7 @@
   <hr/>
   <a href="https://github.com/NibbleSoftwareAssociation/NibbleLang">nibblelang.io</a> | 
   <a href="https://github.com/NibbleSoftwareAssociation/Nibblelang/blob/main/docs/doc.md">doc</a> |
-  <a href="https://github.com/NibbleSoftwareAssociation/NibbleLang/blob/main/changelog.md">changelog</a>
+  <a href="https://github.com/NibbleSoftwareAssociation/nibble-lang/blob/main/releases/changelog.md">changelog</a>
 </div>
 
 ## Introduction

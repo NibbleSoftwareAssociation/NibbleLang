@@ -30,5 +30,36 @@ String          // String type
 
 Integers and floats are objects as well as Char, Boolean or String instance.
 
+Nibble has some types for primitive collections too:
+
+```
+[1,2,3,4]                   // Array type
+{"one": 1}                  // Map type
+(1, "Hello", new Foo())     // Tuple type
+```
+
+### Array Type
+
+Array type is defined as ```[]T```, note that we do not declare a length: in fact, arrays' length, by default is no-fixed:
+```
+arr: []i8 := []
+arr[0] = 1
+arr[1] = 2
+arr[2] = 3
+// arr = [1,2,3]
+```
+A fixed-lengt is defined as ```[expr]T``` where ```T``` is any type, and ```expr``` represent
+the length for the array.
+
+### Map Type
+
+Map type is a collection of pair defined as ```{T1 -> T2}``` where ```T1``` represent the key and ```T2``` represent the value.
+
+### Tuple Type
+
+A tuple is a collection of values of different types. 
+Tuples are constructed using parentheses ```()```, and each tuple itself is a value with type signature 
+```(T1, T2, ...)```, where ```T1```, ```T2``` are the types of its members.
+Functions can use tuples to return multiple values, as tuples can hold any number of values.
 
 

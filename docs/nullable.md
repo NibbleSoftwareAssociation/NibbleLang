@@ -54,7 +54,7 @@ the value, Nibble will do the backend:
 ```
 a = Option::Some(1)         // Ok
 a = Some(2)                 // Ok
-a = Some(3)                 // Ok
+a = 3                       // Ok
 ```
 
 We can check if `a` is `None` in these ways:
